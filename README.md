@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/together-hand-in-hand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Together Hand In Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-hand-in-hand/) |
+| **Get License** | [Secure Licensing Rights for Together Hand In Hand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-hand-in-hand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning deep inside the dark
+> You light the fire just by walking through the spark
+> Every shadow dances when you pull me near
+> There’s nothing but this heavy rhythm we can hear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
